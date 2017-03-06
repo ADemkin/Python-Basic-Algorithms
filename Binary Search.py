@@ -1,4 +1,5 @@
 # coding: utf-8
+#
 # python 3.6
 #
 # a simple binary search on a given list

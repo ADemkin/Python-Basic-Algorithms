@@ -1,5 +1,7 @@
 # coding: utf-8
 #
+# python 3.6
+#
 # very simple linear search algorythm
 #
 # Anton Demkin, 2017
