@@ -36,5 +36,5 @@ def bubbleSort(inputList):
 
 listToSort = [8, 35, 14, 28, 15, 13, 26, 22, 32, 3, 18, 19, 33, 12, 21, 34, 29, 1, 7, 5, 2, 20, 25, 6, 27, 16, 31, 9,
               36, 23, 11, 30, 24, 4, 17, 10]
-# print(listToSort)
+
 print(bubbleSort(listToSort))
