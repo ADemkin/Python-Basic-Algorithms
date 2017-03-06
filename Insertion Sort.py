@@ -5,6 +5,7 @@
 # My realisation of insertion sort algorythm
 #
 # Anton Demkin, 2017
+#
 
 
 def insertionSort(inputList):
