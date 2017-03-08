@@ -23,4 +23,4 @@ def primeNumber(number):
     return prime_numbers
 
 
-print(primeNumber(50))
+print(primeNumber(150))
